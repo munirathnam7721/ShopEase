@@ -30,3 +30,9 @@ Thumbs.db
 dist/
 build/
 *.egg-info/
+
+# ShopEase Authentication Service environment files
+shopease-auth-service/.env
+shopease-auth-service/.env.docker
+shopease-auth-service/venv/
+shopease-auth-service/.venv/
